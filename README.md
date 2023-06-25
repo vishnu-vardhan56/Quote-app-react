@@ -1,4 +1,4 @@
-[go](https://quotes-by-vishnu.netlify.app/){:target="_blank" rel="noopener"}
+Visit Site here 👉 https://quotes-by-vishnu.netlify.app/
 
 # Getting Started with Create React App
 
