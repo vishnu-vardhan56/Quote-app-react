@@ -1,4 +1,4 @@
-Visit deploy site here 👉 https://quotes-by-vishnu.netlify.app/
+[go](https://quotes-by-vishnu.netlify.app/){:target="_blank" rel="noopener"}
 
 # Getting Started with Create React App
 
