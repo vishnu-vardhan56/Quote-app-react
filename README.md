@@ -1,5 +1,7 @@
 Visit Site here 👉 https://quotes-by-vishnu.netlify.app/
 
+advice Api 👉 https://api.adviceslip.com/advice/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
