@@ -1,5 +1,7 @@
 Visit Site here 👉 https://quotes-by-vishnu.netlify.app/
 
+api adviceslip site 👉 https://api.adviceslip.com/
+
 advice Api 👉 https://api.adviceslip.com/advice
 
 # Getting Started with Create React App
